@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">صرافی پارسان</string>
+    <string name="nav_header_title">Parsan Exchange</string>
+    <string name="nav_header_subtitle">www.parsan.com.au</string>
+    <string name="nav_header_desc">Parsan Co Ltd</string>
+    <string name="action_settings">تنظیمات</string>
+    <string name="menu_service">خدمات ما</string>
+    <string name="menu_about">درباره ما</string>
+    <string name="menu_contact">ارتباط با ما</string>
+    <string name="about">ما یک شرکت معتبر با مجوز از اداره آسیک استرالیا هستیم</string>
+</resources>
